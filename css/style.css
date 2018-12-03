@@ -84,3 +84,7 @@ body, html {
 /* Container holding the image and the text */
 .container-text-image {
     position: relative;
+}
+a:hover { 
+    color: yellow;
+}
